@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Airidas/MenuBackground.unity
+    guid: 76e92c0582ce9524b900ebb1e948792c
+  - enabled: 1
+    path: Assets/_Eligijus/EligijausScena.unity
+    guid: 0a39b2a1842d0ed40bec3ed02bab2881
+  - enabled: 1
+    path: Assets/_Airidas/TutorialWindow.unity
+    guid: 0ca60ff0b919cf24ea18ae8ec94270ad
+  m_configObjects: {}
